@@ -1,3 +1,4 @@
-# calculator
+# Basic Calculator App Using Flutter
 
-A new Flutter project.
+A simple calculator app which can perform simple arithmetic, algebraic and trigonometric calculations.
+
